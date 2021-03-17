@@ -1,0 +1,4 @@
+export const RECORD_HANDLER = 'RECORD_HANDLER';
+export const ADD_OR_EDIT_RECORD = 'ADD_OR_EDIT_RECORD';
+export const DELETE_RECORD = 'DELETE_RECORD';
+export const CHANGE_RECORD = 'CHANGE_RECORD';
